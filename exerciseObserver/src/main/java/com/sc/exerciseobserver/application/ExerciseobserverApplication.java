@@ -1,13 +1,13 @@
-package com.sc.exerciesObserver;
+package com.sc.exerciseobserver.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ExerciesObserverApplication {
+public class ExerciseobserverApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ExerciesObserverApplication.class, args);
+		SpringApplication.run(ExerciseobserverApplication.class, args);
 	}
 
 }

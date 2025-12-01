@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.sc</groupId>
-	<artifactId>exerciesObserver</artifactId>
+	<artifactId>exerciseobserver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>exerciesObserver</name>
+	<name>exerciseobserver</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>

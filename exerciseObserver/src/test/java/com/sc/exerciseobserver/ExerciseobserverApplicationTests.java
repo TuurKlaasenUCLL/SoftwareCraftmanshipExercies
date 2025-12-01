@@ -1,10 +1,10 @@
-package com.sc.exerciesObserver;
+package com.sc.exerciseobserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ExerciesObserverApplicationTests {
+class ExerciseobserverApplicationTests {
 
 	@Test
 	void contextLoads() {
